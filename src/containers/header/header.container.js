@@ -8,7 +8,7 @@ class Header extends Component {
                 <nav className="navbar navbar-inverse">
                     <div className="container-fluid" style={{marginLeft: '50px'}}>
                         <div className="navbar-header">
-                            <a className="navbar-brand" href="#/">terribly tiny tales</a>
+                            <a className="navbar-brand" href="#/">VdoCipher</a>
                         </div>
                     </div>
                 </nav>

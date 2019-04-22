@@ -13,8 +13,16 @@ code {
     monospace;
 }
 
+.navbar-inverse{
+  background: rgb(0, 0, 0);
+  border: none;
+}
+
 .navbar-inverse .navbar-brand{
   color: white;
+  font-weight: 600;
+  font-size: 29px;
+  font-family: Arial, sans-serif;
 }
 
 .navbar{
